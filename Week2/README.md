@@ -29,8 +29,21 @@ This week focuses on practical exploitation, vulnerability scanning, and the com
   - Root access (bind shell output)
 
 ## 🧾 Reports
-- `Week2_Report.pdf` – Detailed report of all commands, findings, and key learnings.
-- `Bindshell_output.txt` – Command output from reverse shell connection.
+- `VAPT_Week2_Report.pdf` 
+- `Bindshell_output.txt` 
+- `scans/nmap_full_tcp_192-168-1-100.txt`
+- `scans/nmap_service_192-168-1-100.txt`
+- `scans/nikto_192-168-0-139.txt`
+- `scans/gobuster_192-168-0-139.txt`
+- `web/phpinfo.html`
+- `web/phpmyadmin_index.html`
+- `exploits/msf_tomcat_mgr_login_output.txt (copy msf output)`
+- `exploits/tomcat_upload_output.txt (exploit upload output)`
+- `exploits/bindshell_1524_output.txt`
+- `evidence/evidence_192-168-0-139.tar.gz`
+- `evidence/evidence_hash.txt (contains the sha256 above)`
+- `screenshots` 
+
 
 ## 🧩 Deliverables
 - [x] Nmap + OpenVAS scan reports  
