@@ -1,9 +1,9 @@
-# 🔐 Week 3 – Vulnerability Assessment & Penetration Testing (VAPT)  
+#  Week 3 – Vulnerability Assessment & Penetration Testing (VAPT)  
 _Advanced Exploitation • Web Application Testing • Reporting • Post-Exploitation • Full VAPT Cycle_
 
 ---
 
-## 📌 **Overview**
+## **Overview**
 Week 3 focuses on advanced exploitation techniques, web application security testing, reporting, evidence collection, and executing a complete VAPT cycle. The tasks were performed using Metasploitable2, DVWA, OpenVAS, Burp Suite, sqlmap, Metasploit, and other security tools.
 
 This README documents:
@@ -16,11 +16,11 @@ This README documents:
 
 ---
 
-## ✅ **Task Breakdown**
+##  **Task Breakdown**
 
 ---
 
-### **1️⃣ Advanced Exploitation Lab**
+### **1️ Advanced Exploitation Lab**
 **Tools:** Metasploit, Python, Exploit-DB  
 **Activities Completed:**
 - Simulated exploit chaining on Metasploitable2  
@@ -33,12 +33,10 @@ This README documents:
 - Customized PoC explanation  
 - 100-word email escalation (added in report)
 
-📌 **Add screenshots here:**  
-`/Week3/screenshots/exploitation/`
 
 ---
 
-### **2️⃣ Web Application Testing Lab (DVWA)**
+### **2️ Web Application Testing Lab (DVWA)**
 **Tools:** Burp Suite, sqlmap, OWASP ZAP  
 **Activities Completed:**
 - SQL Injection exploitation using sqlmap  
@@ -53,12 +51,9 @@ This README documents:
 | 001 | SQL Injection | Critical | /vulnerabilities/sqli/ |
 | 002 | XSS Reflected | Medium | /vulnerabilities/xss_r/ |
 
-📌 **Add screenshots here:**  
-`/Week3/screenshots/web_testing/`
-
 ---
 
-### **3️⃣ Reporting & Visualization Practice**
+### **3️ Reporting & Visualization Practice**
 **Tools:** Google Docs, Draw.io  
 **Activities:**
 - Created full VAPT report  
@@ -67,12 +62,12 @@ This README documents:
 - Attack path diagram (PlantUML → Draw.io)  
 - 100-word management summary
 
-📌 Reports stored in:  
+ Reports stored in:  
 `/Week3/`
 
 ---
 
-### **4️⃣ Post-Exploitation & Evidence Collection**
+### **4️ Post-Exploitation & Evidence Collection**
 **Tools:** Meterpreter, Wireshark, Volatility  
 **Activities:**
 - Privilege escalation using Metasploit  
@@ -83,7 +78,7 @@ This README documents:
 
 ---
 
-### **5️⃣ Capstone: Full VAPT Cycle**
+### **5️ Capstone: Full VAPT Cycle**
 **Tools:** OpenVAS, Metasploit, Linux VM (Kioptrix)  
 **Activities Completed:**
 - Ran OpenVAS vulnerability scan  
@@ -95,7 +90,7 @@ This README documents:
 
 ---
 
-## 📄 **Deliverables Included**
+##  **Deliverables Included**
 - Week3 Full Report (PDF)
 - Logs (sqlmap, Burp, Metasploit)
 - Attack Path Diagram (PNG/PDF)
@@ -107,7 +102,7 @@ This README documents:
 
 ---
 
-## 🎯 **Key Learnings**
+##  **Key Learnings**
 - Understanding exploit chains and payload customization  
 - Practical exploitation of SQLi and XSS  
 - Web app enumeration using automated + manual tools  
